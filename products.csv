@@ -1,0 +1,6 @@
+product_id,product_name,description,price
+1,Web development workshop,2 hours hands on bootstrap,975
+2,AI workshop,1 hours hands on opencv,710
+3,Devops Workshop,1 hour hands on clod,12
+4,Cyber security workshop,2 hour hands on securing data,120
+5,Big Data workshop,2 hour hands on hadoop clusters.,920
