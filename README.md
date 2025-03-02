@@ -1,0 +1,2 @@
+# Invoice
+For generating invoices.
